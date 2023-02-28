@@ -1,0 +1,36 @@
+:root { 
+  --black: #000000;
+  --secondary: #f7f4f0;
+  --white: #ffffff;
+ 
+  --font-size-l: 64px;
+  --font-size-m: 20px;
+  --font-size-s: 15px;
+ 
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-pt_serif: "PT Serif", Helvetica;
+  --font-family-tsukimi_rounded-regular: "Tsukimi Rounded-Regular", Helvetica;
+}
+.lato-light-fantasy-20px {
+  color: var(--secondary);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ptserif-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-pt_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lato-light-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}

@@ -1,0 +1,391 @@
+/* screen - scrolling-home-page-one-page */
+
+.scrolling-home-page-one-page {
+  background: linear-gradient(to bottom, rgb(255, 185.94, 205.67) 5.85%, rgb(223, 144, 191) 48.44%, rgb(115, 104, 173) 89.65%, rgb(68.49, 85.9, 138.13) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  cursor: pointer;
+  height: 2713px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1440px;
+}
+
+
+.scrolling-home-page-one-page .navi-text {
+  display: flex;
+  gap: 45px;
+  height: 73px;
+  left: 872px;
+  position: absolute;
+  top: 26px;
+  width: 502px;
+}
+
+.scrolling-home-page-one-page .menu-text {
+  display: flex;
+  height: 29px;
+  width: 53px;
+}
+
+.scrolling-home-page-one-page .menu-text-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 53px;
+}
+
+.scrolling-home-page-one-page .menu-text-2 {
+  display: flex;
+  height: 29px;
+  width: 56px;
+}
+
+.scrolling-home-page-one-page .menu-text-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 56px;
+}
+
+.scrolling-home-page-one-page .menu-text-4 {
+  display: flex;
+  height: 25px;
+  width: 67px;
+}
+
+.scrolling-home-page-one-page .menu-text-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 67px;
+}
+
+.scrolling-home-page-one-page .menu-text-6 {
+  display: flex;
+  height: 73px;
+  width: 80px;
+}
+
+.scrolling-home-page-one-page .menu-text-7 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 80px;
+}
+
+.scrolling-home-page-one-page .menu-text-8 {
+  display: flex;
+  height: 73px;
+  width: 66px;
+}
+
+.scrolling-home-page-one-page .menu-text-9 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 66px;
+}
+
+.scrolling-home-page-one-page .bio {
+  align-items: flex-end;
+  display: flex;
+  height: 350px;
+  left: 0;
+  min-width: 585px;
+  position: absolute;
+  top: 50px;
+}
+
+.scrolling-home-page-one-page .overlap-group {
+  height: 350px;
+  margin-bottom: 0;
+  position: relative;
+  width: 579px;
+}
+
+.scrolling-home-page-one-page .ux-desginer-researcher {
+  color: var(--white);
+  font-family: var(--font-family-pt_serif);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  width: 424px;
+}
+
+.scrolling-home-page-one-page .i-care-about-creatin {
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+  width: 405px;
+}
+
+.scrolling-home-page-one-page .name {
+  color: var(--white);
+  font-family: var(--font-family-tsukimi_rounded-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 579px;
+}
+
+.scrolling-home-page-one-page .contact-info {
+  align-items: flex-start;
+  display: flex;
+  height: 201px;
+  left: 939px;
+  min-width: 442px;
+  position: absolute;
+  top: 297px;
+}
+
+.scrolling-home-page-one-page .overlap-group1 {
+  height: 201px;
+  position: relative;
+  width: 438px;
+}
+
+.scrolling-home-page-one-page .would-you-like-to-cr {
+  color: transparent;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-weight: 300;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 33px;
+  width: 405px;
+}
+
+.scrolling-home-page-one-page .span1 {
+  color: var(--secondary);
+  text-decoration: underline;
+}
+
+.scrolling-home-page-one-page .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 438px;
+}
+
+.scrolling-home-page-one-page .recent-projects {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 408px;
+  min-height: 605px;
+  position: absolute;
+  top: 498px;
+  width: 635px;
+}
+
+.scrolling-home-page-one-page .recent-projects-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 13.0px;
+  min-height: 65px;
+  text-align: center;
+  width: 438px;
+}
+
+.scrolling-home-page-one-page .overlap-group3 {
+  height: 217px;
+  margin-right: 8.0px;
+  position: relative;
+  width: 627px;
+}
+
+.scrolling-home-page-one-page .romaine-calm-carrot-on {
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 361px;
+}
+
+.scrolling-home-page-one-page .creating-a-personali {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+  width: 378px;
+}
+
+.scrolling-home-page-one-page .x4_-restaruant-selection-swipe-1 {
+  height: 217px;
+  left: 525px;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.scrolling-home-page-one-page .overlap-group2 {
+  height: 217px;
+  margin-right: 8.0px;
+  margin-top: 45px;
+  position: relative;
+  width: 627px;
+}
+
+.scrolling-home-page-one-page .rectangle-2 {
+  border: 0px none;
+}
+
+.scrolling-home-page-one-page .homepage_-high-fi-1 {
+  height: 217px;
+  left: 403px;
+  position: absolute;
+  top: 0;
+  width: 224px;
+}
+
+.scrolling-home-page-one-page .new-mexico-workforce {
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  width: 361px;
+}
+
+.scrolling-home-page-one-page .redesigning-an-unemp {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 49px;
+  width: 378px;
+}
+
+.scrolling-home-page-one-page .would-you-like-to-view-more {
+  align-self: flex-end;
+  color: var(--secondary);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 12px;
+  margin-top: 26px;
+  min-height: 35px;
+  text-decoration: underline;
+  width: 191px;
+}
+
+.scrolling-home-page-one-page .resume {
+  display: flex;
+  height: 182px;
+  left: 389px;
+  position: absolute;
+  top: 2395px;
+  width: 663px;
+}
+
+.scrolling-home-page-one-page .thank-you-for-your-i {
+  color: transparent;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  height: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 661px;
+}
+
+.scrolling-home-page-one-page .span0-1 {
+  color: var(--white);
+}
+
+.scrolling-home-page-one-page .span1-1 {
+  color: var(--black);
+}
+
+.scrolling-home-page-one-page .span2 {
+  text-decoration: underline;
+}
+
+.scrolling-home-page-one-page .about {
+  align-items: flex-start;
+  display: flex;
+  height: 253px;
+  left: 63px;
+  min-width: 570px;
+  position: absolute;
+  top: 1362px;
+}
+
+.scrolling-home-page-one-page .overlap-group4 {
+  height: 253px;
+  position: relative;
+  width: 566px;
+}
+
+.scrolling-home-page-one-page .about-me {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.scrolling-home-page-one-page .hello-my-name-is-di {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  width: 566px;
+}
+
+.scrolling-home-page-one-page .resume-image {
+  height: 401px;
+  left: 567px;
+  position: absolute;
+  top: 1968px;
+  width: 305px;
+}
+
+.scrolling-home-page-one-page .rectangle {
+  background-color: #00000014;
+  border-radius: 4px;
+  height: 209px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 623px;
+}
+
+a {
+color:  var(--white)
+}
